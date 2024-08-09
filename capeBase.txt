@@ -6,4 +6,3 @@ ThunderHack:tester
 Refior2:tester
 roky:tester
 NursultanNextgen:bkgroup
-
